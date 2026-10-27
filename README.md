@@ -1,1 +1,1 @@
-# Claudeopenworld2.0
+Open World game by Claude
